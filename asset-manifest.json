@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/table-form/static/css/main.48271a93.chunk.css",
+    "main.js": "/table-form/static/js/main.a3a17115.chunk.js",
+    "main.js.map": "/table-form/static/js/main.a3a17115.chunk.js.map",
+    "runtime-main.js": "/table-form/static/js/runtime-main.9320c864.js",
+    "runtime-main.js.map": "/table-form/static/js/runtime-main.9320c864.js.map",
+    "static/js/2.6423d4cc.chunk.js": "/table-form/static/js/2.6423d4cc.chunk.js",
+    "static/js/2.6423d4cc.chunk.js.map": "/table-form/static/js/2.6423d4cc.chunk.js.map",
+    "index.html": "/table-form/index.html",
+    "precache-manifest.08ab8251029fd51b0a4f488950d9ea33.js": "/table-form/precache-manifest.08ab8251029fd51b0a4f488950d9ea33.js",
+    "service-worker.js": "/table-form/service-worker.js",
+    "static/css/main.48271a93.chunk.css.map": "/table-form/static/css/main.48271a93.chunk.css.map",
+    "static/js/2.6423d4cc.chunk.js.LICENSE": "/table-form/static/js/2.6423d4cc.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9320c864.js",
+    "static/js/2.6423d4cc.chunk.js",
+    "static/css/main.48271a93.chunk.css",
+    "static/js/main.a3a17115.chunk.js"
+  ]
+}
